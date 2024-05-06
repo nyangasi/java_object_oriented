@@ -1,3 +1,5 @@
+// Changes to accomodate lambda expressions
+// Uploaded to version control
 class Laptop
 {
 	String model;
